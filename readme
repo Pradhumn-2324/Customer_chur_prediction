@@ -1,0 +1,7 @@
+Run this file on colab or jupyter with data to review my document 
+churn_prediction_colab.ipynb
+
+install require which are present in requirement.txt
+
+you cal also run this myapp.py with following command
+streamlit run myapp.py

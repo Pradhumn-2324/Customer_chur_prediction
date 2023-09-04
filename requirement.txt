@@ -1,0 +1,10 @@
+scikit-learn==1.2.2
+streamlit
+numpy
+pandas
+matplotlib
+plotly
+seaborn
+tensorflow
+keras
+xgboost
